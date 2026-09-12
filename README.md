@@ -1,11 +1,10 @@
-## Desarrollo de una aplicación web y móvil para la gestión y seguimiento de reclamos ciudadanos dirigidos a una municipalidad
+# Desarrollo de una aplicación web y móvil para la gestión y seguimiento de reclamos ciudadanos dirigidos a una municipalidad
 
-## Presentado por :
-Felipe Bechan
-Giovani Faúndez
-Vicente Rodríguez
-Tomás Olivares
-
+# Presentado por :
+Felipe Bechan**
+Giovani Faúndez**
+Vicente Rodríguez**
+Tomás Olivares**
 
 # Proyecto de Ingeniería Web y Móvil: Plataforma de Gestión y Seguimiento de Reclamos Ciudadanos (Municipalidad)
 
