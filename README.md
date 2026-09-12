@@ -4,7 +4,7 @@
 Felipe Bechan  \
 Giovani Faúndez  \
 Vicente Rodríguez  \
-Tomás Olivares  \
+Tomás Olivares
 
 # Proyecto de Ingeniería Web y Móvil: Plataforma de Gestión y Seguimiento de Reclamos Ciudadanos (Municipalidad)
 
